@@ -1,0 +1,1 @@
+export default ADD_TO_CARD='add_to_card';
